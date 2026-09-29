@@ -1,0 +1,26 @@
+body { 
+font-family: Arial, sans-serif; 
+margin: 0; 
+line-height: 1.6; 
+background-color: rgb(255, 197, 195);
+} 
+nav { 
+background-color: #a01717; 
+padding: 20px;
+} 
+nav a { 
+color: white; 
+text-decoration: none; 
+margin: 10px; 
+padding: 10px; 
+}
+nav a:hover { 
+ background-color: white; 
+ color: #bb8080; 
+ border-radius: 5px; 
+}
+html { 
+ scroll-behavior: smooth; 
+} 
+
+
